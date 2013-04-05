@@ -1,11 +1,11 @@
 # General policy : Supplier engagement and procurement
 
-*Summary*
+*Summary*  
 ODI operates an open procurement process. This means we may publish data about work which we have contracted.
 
 We reserve the right to publish information such as our supplier’s names, the cost of services we have purchased, and related service provision metrics. For example, with an IT contract we may make Service Level Agreement terms and the suppliers performance against them available as Open Data.
 
-*Assessment criteria*
+*Assessment criteria*  
 Suppliers (or those pitching to supply) will be assessed based on their
 
 1. Quality of service
@@ -17,7 +17,7 @@ Suppliers (or those pitching to supply) will be assessed based on their
 
 Where relevant, open data relating to service provision must be supplied.
 
-*What is Open Data in this context?*
+*What is Open Data in this context?*  
 ODI’s definition of Open Data is data that is;
 
 1. Structured (in a machine-readable, logical format)
@@ -27,7 +27,7 @@ ODI’s definition of Open Data is data that is;
 
 Providers should provide relevant information as open data as part of their contract. The ODI reserves the right to re-publish such information as open data. The purpose of this is to help secure the most effective services and to maintain quality of service. One supplier benefit is that those providing the best services will gain the greatest positive exposure.
 
-*What needs to be supplied as Open Data?*
+*What needs to be supplied as Open Data?*  
 We expect at least the following information to be supplied as Open Data:
 
 1. Contract information  
