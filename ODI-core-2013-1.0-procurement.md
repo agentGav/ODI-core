@@ -25,7 +25,7 @@ ODI’s definition of Open Data is data that is;
 1. Traceable (the provenance of the data is documented) and Licensed (e.g. BY-SA)
 1. Continuous (as in continuity of supply)
 
-Providers should provide relevant information as open data as part of their contract. The ODI reserves the right to re-publish such information as open data. The purpose of this is to help secure the most effective services and to maintain quality of service. One supplier benefit is that those providing the best services will gain the greatest positive exposure.
+Providers should provide relevant information as open data as part of their contract. The ODI reserves the right to re-publish such information as open data. The purpose of this is to help secure the most effective services and to maintain quality of service. One supplier benefit is that those providing the best services will gain the greatest positive exposure. We strongly encourage the use of [Open Data Certificates](http://theodi.github.io/open-data-certificate/) to support the release of Open Data.
 
 *What needs to be supplied as Open Data?*  
 We expect at least the following information to be supplied as Open Data:
