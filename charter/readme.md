@@ -1,4 +1,4 @@
-Overview of the ODI Charter
+# Overview of the ODI Charter
 
 To codify the Open Data Institute (ODI) we define its:
 
